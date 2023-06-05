@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DepremUygulamasi</string>
+    <string name="ad">Adınız</string>
+    <string name="soyad">soyadınız</string>
+</resources>
