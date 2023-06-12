@@ -25,4 +25,5 @@
         android:text="soyadınız"
         tools:layout_editor_absoluteX="6dp"
         tools:layout_editor_absoluteY="61dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
